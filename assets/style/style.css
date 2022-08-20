@@ -1,15 +1,14 @@
+@font-face {
+    font-family: 'Prompt-Medium';
+    src: url("assets/fonts/Prompt-Medium.ttf") format("ttf");
+}
+
 .header-title,
 .subtitle {
     font-family: 'Prompt-Medium', Helvetica, sans-serif;
     font-size: 2em;
     text-align: center;
 }
-
-@font-face {
-    font-family: 'Prompt-Medium';
-    src: url(/assets/fonts/Prompt-Medium.ttf);
-}
-
 
 
 .slider {
